@@ -1,6 +1,6 @@
 # ⭐ LeetCode Solutions – Clean, Efficient, and Well-Explained Code
 
- This repository contains my curated solutions to LeetCode problems, written with a focus on:  
+ ### 💡 This repository contains my curated solutions to LeetCode problems, written with a focus on:  
 🔹Clean and readable code  
 🔹Optimal time and space complexity  
 🔹Clear explanations and thought process  
