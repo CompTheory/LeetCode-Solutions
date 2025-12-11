@@ -1,5 +1,6 @@
 """
 LeetCode #1 – Two Sum
+youtube video: https://www.youtube.com/watch?v=6dapaCvcMF0&t=531s
 """
 
 
