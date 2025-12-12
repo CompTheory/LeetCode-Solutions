@@ -1,3 +1,8 @@
+"""
+LeetCode #206 - Reverse Linked List
+"""
+
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, val=0, next=None):
@@ -15,6 +20,10 @@ class Solution:
         return prev
     
 
-
 # time complexity = O(n)
 # space complexity = O(1)
+
+        
+# Example Usage:
+# Input: head = [1,2,3,4,5]
+# Output: [5,4,3,2,1]
