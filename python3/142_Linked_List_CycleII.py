@@ -1,3 +1,10 @@
+"""
+LeetCode #142 - Linked List Cycle II
+"""
+
+
+
+
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
@@ -22,3 +29,7 @@ class Solution:
             slower = slower.next
         
         return slower
+
+
+# time complexity = O(n)
+# space Complexity = O(1)
