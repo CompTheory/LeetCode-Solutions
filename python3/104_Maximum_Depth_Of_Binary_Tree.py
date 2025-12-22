@@ -1,3 +1,10 @@
+"""
+LeetCode #104 - Maximum Depth Of Binary Tree
+"""
+
+
+
+
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -10,4 +17,9 @@ class Solution:
             return 0
         elif root.left is None and root.right is None:
             return 1
+
         return 1 + max(self.maxDepth(root.left), self.maxDepth(root.right))
+
+
+# time complexity = O(n)
+# space complexity = O(h) height of Tree
