@@ -1,3 +1,10 @@
+"""
+LeetCode #217 - Contains Duplicate
+"""
+
+
+
+
 # time optimal
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
@@ -27,4 +34,5 @@ class Solution:
 
 
 # time complexity = O(n) in best case and O(nlogn) in worst case
+
 # space complexity = O(1)
