@@ -1,3 +1,8 @@
+"""
+LeetCode #53 - Maximum Subarray
+"""
+
+
 # Kadane’s Algorithm
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
@@ -71,3 +76,4 @@ class Solution:
 
 # time complexity = O(n^2)
 # space complexity = O(1)
+
