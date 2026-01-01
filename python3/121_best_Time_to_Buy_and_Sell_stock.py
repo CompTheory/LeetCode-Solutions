@@ -4,7 +4,6 @@ LeetCode #121 - Best Time to Buy and Sell Stock
 
 
 
-
 # turn into maximum subarray question and using kadane's algorithm
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
@@ -61,4 +60,5 @@ class Solution:
         return maximum_price if maximum_price > 0 else 0
     
 # time complexity = O(n^2)
+
 # space complexity = O(1)
