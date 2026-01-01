@@ -60,5 +60,5 @@ class Solution:
         return maximum_price if maximum_price > 0 else 0
     
 # time complexity = O(n^2)
-
 # space complexity = O(1)
+
