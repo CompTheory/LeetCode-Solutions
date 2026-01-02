@@ -60,5 +60,5 @@ class Solution:
                     maximum_product = last_product
         return maximum_product
 
-# time complexity = O(n)
+# time complexity = O(n^2)
 # space complexity = O(1)
